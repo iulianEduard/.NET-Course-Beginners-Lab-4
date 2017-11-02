@@ -145,5 +145,7 @@ namespace Lab4.ConsoleApp
 
         #endregion Working with Static
 
+        //This is a comment
+
     }
 }
