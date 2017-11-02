@@ -13,6 +13,7 @@ namespace Lab4.ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("You have been hacked");
             StaticMethods2Work();
         }
 
