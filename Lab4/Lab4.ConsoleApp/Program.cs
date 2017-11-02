@@ -14,6 +14,7 @@ namespace Lab4.ConsoleApp
         static void Main(string[] args)
         {
             StaticMethods2Work();
+            Console.WriteLine("Modif");
         }
 
         #region Working with Nullable
