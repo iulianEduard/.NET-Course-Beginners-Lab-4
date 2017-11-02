@@ -16,5 +16,10 @@ namespace Lab4.ConsoleApp.ClassType
         {
             currSpeed += delta;
         }
+
+        public void PrintBranchAndOwner()
+        {
+            Console.WriteLine("modificari facute de radu pe Car.cs; branchul Tema41")
+        }
     }
 }
