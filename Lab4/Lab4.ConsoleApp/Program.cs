@@ -13,8 +13,16 @@ namespace Lab4.ConsoleApp
     {
         static void Main(string[] args)
         {
+            Dreptunghi dreptunghi = new Dreptunghi();
+            dreptunghi.lungimea = 45;
+            dreptunghi.lungimea = 76;
+
+            
+
             StaticMethods2Work();
-        }
+        }    
+      
+
 
         #region Working with Nullable
 
