@@ -42,10 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="ClassType\Algoritmica.cs" />
     <Compile Include="ClassType\Car.cs" />
     <Compile Include="ClassType\CarWithChainedConstructors.cs" />
     <Compile Include="ClassType\CarWithConstructors.cs" />
     <Compile Include="ClassType\CarWithThis.cs" />
+    <Compile Include="ClassType\Dreptunghi.cs" />
     <Compile Include="NullableTypes\WorkingWithNullable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

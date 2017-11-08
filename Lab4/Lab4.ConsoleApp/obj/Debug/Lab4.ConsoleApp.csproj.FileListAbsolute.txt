@@ -5,3 +5,10 @@ F:\Work\.NET Course - Beginners\Lab 4\.NET-Course-Beginners-Lab-4\Lab4\Lab4.Cons
 F:\Work\.NET Course - Beginners\Lab 4\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\bin\Debug\Lab4.ConsoleApp.pdb
 F:\Work\.NET Course - Beginners\Lab 4\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\obj\Debug\Lab4.ConsoleApp.exe
 F:\Work\.NET Course - Beginners\Lab 4\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\obj\Debug\Lab4.ConsoleApp.pdb
+D:\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\bin\Debug\Lab4.ConsoleApp.exe.config
+D:\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\bin\Debug\Lab4.ConsoleApp.exe
+D:\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\bin\Debug\Lab4.ConsoleApp.pdb
+D:\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\obj\Debug\Lab4.ConsoleApp.csprojResolveAssemblyReference.cache
+D:\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\obj\Debug\Lab4.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\obj\Debug\Lab4.ConsoleApp.exe
+D:\.NET-Course-Beginners-Lab-4\Lab4\Lab4.ConsoleApp\obj\Debug\Lab4.ConsoleApp.pdb

@@ -13,6 +13,8 @@ namespace Lab4.ConsoleApp.NullableTypes
 
             // string? s = "oops";
         }
+
+        
     }
 
     public class DatabaseReader

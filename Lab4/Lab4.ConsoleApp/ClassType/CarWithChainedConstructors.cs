@@ -4,7 +4,7 @@ namespace Lab4.ConsoleApp.ClassType
 {
     public class CarWithChainedConstructors
     {
-        public string name;
+        public string name="Seat";
         public int currSpeed;
 
         public CarWithChainedConstructors()
