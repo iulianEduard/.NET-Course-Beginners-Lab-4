@@ -13,7 +13,9 @@ namespace Lab4.ConsoleApp
     {
         static void Main(string[] args)
         {
+            // test
             StaticMethods2Work();
+            
         }
 
         #region Working with Nullable
@@ -55,7 +57,7 @@ namespace Lab4.ConsoleApp
 
             DatabaseReader dr = new DatabaseReader();
             int myData = dr.GetIntFromDatabase() ?? 100;
-
+            
             Console.WriteLine("Value of myData: {0}", myData);
             Console.ReadLine();
         }
@@ -146,4 +148,5 @@ namespace Lab4.ConsoleApp
         #endregion Working with Static
 
     }
+    
 }
