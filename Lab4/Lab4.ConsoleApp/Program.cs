@@ -54,6 +54,16 @@ namespace Lab4.ConsoleApp
             Console.WriteLine("***** Fun with Nullable Data* ****\n");
 
             DatabaseReader dr = new DatabaseReader();
+
+            int _myData = 0;
+            if (dr.GetIntFromDatabase().HasValue)
+            {
+                _myData = dr.GetIntFromDatabase().Value;
+            }
+            else
+            {
+                _myData = 100;
+            }
             int myData = dr.GetIntFromDatabase() ?? 100;
 
             Console.WriteLine("Value of myData: {0}", myData);
@@ -71,7 +81,7 @@ namespace Lab4.ConsoleApp
             myCar.name = "Audi";
             myCar.currSpeed = 10;
 
-            for(int i = 0; i < 10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 myCar.SpeedUp(i * 10);
                 myCar.PrintState();
@@ -146,4 +156,51 @@ namespace Lab4.ConsoleApp
         #endregion Working with Static
 
     }
+    static void PrimeNumbers()
+    {
+        bool prin = true;
+        Console.WriteLine("Numerele Prime de la 1 la 100");
+        for (int k = 2; k <= 100; k++)
+        {
+            for (int j = 2; j <= 100; j++)
+            {
+                if (k != j && k % j == 0)
+                {
+                    prin = false;
+                    break;
+                }
+            }
+            if (prin)
+            {
+                Console.WriteLine("\t" + k);
+            }
+            prin = true;
+        }
+        Console.ReadKey();
+
+    }
+    static void OddNumbers()
+    {
+        //int i=0;
+        for(int i=0;i<=100;i++)
+            if(i%2!=0)
+            {
+                Console.WriteLine(i);
+            }
+        Console.ReadLine();
+    }
+    static void EvenNumbers()
+    {
+        int i;
+        for(i = 1; i < 100; i++)
+        {
+            if(i%2==0)
+            {
+                Console.WriteLine(i);
+            }
+        }
+        Console.ReadLine();
+    }
+    }
+
 }
