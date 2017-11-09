@@ -1,0 +1,11 @@
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\bin\Debug\netcoreapp2.0\Tema_nr_impare.deps.json
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\bin\Debug\netcoreapp2.0\Tema_nr_impare.runtimeconfig.json
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\bin\Debug\netcoreapp2.0\Tema_nr_impare.runtimeconfig.dev.json
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\bin\Debug\netcoreapp2.0\Tema_nr_impare.dll
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\bin\Debug\netcoreapp2.0\Tema_nr_impare.pdb
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\obj\Debug\netcoreapp2.0\Tema_nr_impare.csprojResolveAssemblyReference.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\obj\Debug\netcoreapp2.0\Tema_nr_impare.csproj.CoreCompileInputs.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\obj\Debug\netcoreapp2.0\Tema_nr_impare.AssemblyInfoInputs.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\obj\Debug\netcoreapp2.0\Tema_nr_impare.AssemblyInfo.cs
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\obj\Debug\netcoreapp2.0\Tema_nr_impare.dll
+C:\Users\daniel.lup\source\repos\Tema_nr_impare\Tema_nr_impare\obj\Debug\netcoreapp2.0\Tema_nr_impare.pdb

@@ -1,0 +1,11 @@
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\obj\Debug\netcoreapp2.0\Tema_nr_pare.csprojResolveAssemblyReference.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\obj\Debug\netcoreapp2.0\Tema_nr_pare.csproj.CoreCompileInputs.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\obj\Debug\netcoreapp2.0\Tema_nr_pare.AssemblyInfoInputs.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\obj\Debug\netcoreapp2.0\Tema_nr_pare.AssemblyInfo.cs
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\bin\Debug\netcoreapp2.0\Tema_nr_pare.deps.json
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\bin\Debug\netcoreapp2.0\Tema_nr_pare.runtimeconfig.json
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\bin\Debug\netcoreapp2.0\Tema_nr_pare.runtimeconfig.dev.json
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\bin\Debug\netcoreapp2.0\Tema_nr_pare.dll
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\bin\Debug\netcoreapp2.0\Tema_nr_pare.pdb
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\obj\Debug\netcoreapp2.0\Tema_nr_pare.dll
+C:\Users\daniel.lup\source\repos\Tema_nr_pare\Tema_nr_pare\obj\Debug\netcoreapp2.0\Tema_nr_pare.pdb

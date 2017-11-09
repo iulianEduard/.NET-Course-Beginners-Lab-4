@@ -1,0 +1,11 @@
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\bin\Debug\netcoreapp2.0\Tema_nr_prime_2.deps.json
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\bin\Debug\netcoreapp2.0\Tema_nr_prime_2.runtimeconfig.json
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\bin\Debug\netcoreapp2.0\Tema_nr_prime_2.runtimeconfig.dev.json
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\bin\Debug\netcoreapp2.0\Tema_nr_prime_2.dll
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\bin\Debug\netcoreapp2.0\Tema_nr_prime_2.pdb
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\obj\Debug\netcoreapp2.0\Tema_nr_prime_2.csprojResolveAssemblyReference.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\obj\Debug\netcoreapp2.0\Tema_nr_prime_2.csproj.CoreCompileInputs.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\obj\Debug\netcoreapp2.0\Tema_nr_prime_2.AssemblyInfoInputs.cache
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\obj\Debug\netcoreapp2.0\Tema_nr_prime_2.AssemblyInfo.cs
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\obj\Debug\netcoreapp2.0\Tema_nr_prime_2.dll
+C:\Users\daniel.lup\source\repos\Tema_nr_prime_2\Tema_nr_prime_2\obj\Debug\netcoreapp2.0\Tema_nr_prime_2.pdb
