@@ -155,52 +155,140 @@ namespace Lab4.ConsoleApp
 
         #endregion Working with Static
 
-    }
-    static void PrimeNumbers()
-    {
-        bool prin = true;
-        Console.WriteLine("Numerele Prime de la 1 la 100");
-        for (int k = 2; k <= 100; k++)
+
+        static void PrimeNumbers()
         {
-            for (int j = 2; j <= 100; j++)
+            bool prin = true;
+            Console.WriteLine("Numerele Prime de la 1 la 100");
+            for (int k = 2; k <= 100; k++)
             {
-                if (k != j && k % j == 0)
+                for (int j = 2; j <= 100; j++)
                 {
-                    prin = false;
-                    break;
+                    if (k != j && k % j == 0)
+                    {
+                        prin = false;
+                        break;
+                    }
+                }
+                if (prin)
+                {
+                    Console.WriteLine("\t" + k);
+                }
+                prin = true;
+            }
+            Console.ReadKey();
+
+        }
+        static void OddNumbers()
+        {
+            //int i=0;
+            for (int i = 0; i <= 100; i++)
+                if (i % 2 != 0)
+                {
+                    Console.WriteLine(i);
+                }
+            Console.ReadLine();
+        }
+        static void EvenNumbers()
+        {
+            int i;
+            for (i = 1; i < 100; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
                 }
             }
-            if (prin)
-            {
-                Console.WriteLine("\t" + k);
-            }
-            prin = true;
-        }
-        Console.ReadKey();
+            Console.ReadLine();
 
-    }
-    static void OddNumbers()
-    {
-        //int i=0;
-        for(int i=0;i<=100;i++)
-            if(i%2!=0)
-            {
-                Console.WriteLine(i);
-            }
-        Console.ReadLine();
-    }
-    static void EvenNumbers()
-    {
-        int i;
-        for(i = 1; i < 100; i++)
+        }
+        static void BiggestNumber()
         {
-            if(i%2==0)
+            Console.WriteLine("Please enter 3 numbers: ");
+            double a = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
+            double c = double.Parse(Console.ReadLine());
+
+            if (a > b && a > c)
             {
-                Console.WriteLine(i);
+                Console.WriteLine("The biggest number is: " + a);
+            }
+            else if (b > a && b > c)
+            {
+                Console.WriteLine("The biggest number is: " + b);
+            }
+            else
+            {
+                Console.WriteLine("The biggest number is: " + c);
             }
         }
-        Console.ReadLine();
-    }
-    }
+        static void DescendingNumbers()
+        {
+            int val, isDecrement;
+            Console.WriteLine("Please enter a number!");
+            val = Int32.Parse(Console.ReadLine());
 
+            Console.WriteLine("Please enter 1 to go Descending order!");
+            isDecrement = Int32.Parse(Console.ReadLine());
+
+            if (isDecrement == 1)
+            {
+                for (int i = val; i >= (val - 10); i--)
+                    Console.WriteLine(i);
+            }
+            else
+            {
+                for (int i = val; i <= (val + 10); i++)
+                    Console.WriteLine(i);
+            }
+            Console.ReadLine();
+        }
+        static void CountingDigitsAndSum()
+        {
+           
+            Console.Write("\n\n Recursion : Count the number of digits in a number :\n");
+            Console.Write("---------------------------------------------------------\n");
+            Console.Write(" Input any number : ");
+            int num = Convert.ToInt32(Console.ReadLine());
+            Console.Write("\n The number {0} contains number of digits : {1} ", num, getDigits(num, 0));
+            Console.ReadLine();
+        }
+
+        public static int getDigits(int n1, int nodigits)
+        {
+            if (n1 == 0)
+                return nodigits;
+
+            return getDigits(n1 / 10, ++nodigits);
+        }
+        static void PalindromeNumbers()
+        {
+            for (int k = 1; k <= 100; k++)
+            {
+
+                string data = k.ToString();               //converts the int value of k into sting
+
+                bool isPalindrome = true;
+
+                for (int i = 0; i < data.Length / 2; i++)
+                {
+
+                    if (data[i] != data[(data.Length - 1) - i])
+                    {
+                        isPalindrome = false;
+                        break;
+                    }
+                }
+
+                if (isPalindrome)
+                {
+                    Console.WriteLine("Palindrome :" + k);
+                }
+            }
+
+
+            Console.ReadKey();
+        }
+    }
 }
+
